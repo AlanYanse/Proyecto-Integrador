@@ -1,14 +1,14 @@
 header{
     background-color: #a1b5cb;
     display: flex;
-    justify-content: space-between;
-    align-items: top;
-    margin-bottom: 20px;
+    align-items: center;
+    margin-bottom: 10px;
 }
 
-app-social-media{
+app-logo-ap{
+    margin-right: auto;
+}
 
-    float: right;
-    margin-top: 30px;
+app-social-media {
     margin-right: 10px;
 }
